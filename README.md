@@ -12,14 +12,19 @@
 - [Contributing](#-contributing)
 - [Citation](#-citation)
 
+## Check List
+- [ ] 🛠️ Detailed documentation and collection of related works
+
 ## 📄 Related Works
 
+2024.04
 - SQL-R1: Training Natural Language to SQL Reasoning Model by Reinforcement Learning 
 [![](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2504.08600) [![](https://img.shields.io/badge/Code-Github-blue)](https://github.com/IDEA-FinAI/SQL-R1)
 
 - Reasoning-SQL: Reinforcement Learning with SQL Tailored Partial Rewards for Reasoning-Enhanced Text-to-SQL 
 [![](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/pdf/2503.23157) 
 
+2024.05
 - Reward-SQL: Boosting Text-to-SQL via Stepwise Reasoning and Process-Supervised Rewards 
 [![](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/pdf/2505.04671) [![](https://img.shields.io/badge/Code-Github-blue)](https://github.com/ruc-datalab/RewardSQL)
 
